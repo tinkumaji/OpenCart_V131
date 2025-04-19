@@ -53,7 +53,7 @@ public class BaseCase {
         }
 
         if (executionEnv.equalsIgnoreCase("remote")) {
-            String hubUrl = "http://localhost:4444/";
+            String hubUrl = "http://localhost:4444/wd/hub";
             DesiredCapabilities capabilities = new DesiredCapabilities();
 
             if (os.equalsIgnoreCase("Windows")) {
