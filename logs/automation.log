@@ -75,3 +75,14 @@
 2025-04-19 21:59:57.285 [main] INFO  testCases.TC002LoginTest - Clicked on Login Link
 2025-04-19 21:59:57.287 [main] INFO  testCases.TC002LoginTest - Providing Login Details
 2025-04-19 21:59:59.041 [main] INFO  testCases.TC002LoginTest - *** Finished TC002LoginTest ***
+2025-04-19 23:24:42.944 [main] INFO  testCases.TC001AccountRegistrationTest - *** Starting TC001AccountRegistrationTest ***
+2025-04-19 23:24:43.174 [main] INFO  testCases.TC001AccountRegistrationTest - Clicked on My Account Link
+2025-04-19 23:24:44.891 [main] INFO  testCases.TC001AccountRegistrationTest - Clicked on Register Link
+2025-04-19 23:24:44.891 [main] INFO  testCases.TC001AccountRegistrationTest - Providing Customer Details
+2025-04-19 23:24:47.082 [main] INFO  testCases.TC001AccountRegistrationTest - Verifying Expected Message...
+2025-04-19 23:24:47.155 [main] INFO  testCases.TC001AccountRegistrationTest - *** Finished TC001AccountRegistrationTest ***
+2025-04-19 23:24:54.640 [main] INFO  testCases.TC002LoginTest - *** Starting TC002LoginTest ***
+2025-04-19 23:24:54.800 [main] INFO  testCases.TC002LoginTest - Clicked on My Account Link
+2025-04-19 23:24:55.306 [main] INFO  testCases.TC002LoginTest - Clicked on Login Link
+2025-04-19 23:24:55.314 [main] INFO  testCases.TC002LoginTest - Providing Login Details
+2025-04-19 23:24:57.871 [main] INFO  testCases.TC002LoginTest - *** Finished TC002LoginTest ***
