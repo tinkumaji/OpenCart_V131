@@ -36,7 +36,7 @@ public class TC001AccountRegistrationTest extends BaseCase {
                 Assert.assertTrue(true);
             } else {
                 logger.error("Test Failed...");
-                logger.debug("");
+                Assert.fail();
             }
         } catch (Exception e) {
             Assert.fail();
